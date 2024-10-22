@@ -109,9 +109,3 @@ Diffing: The diffLines method from the diff library is used to display differenc
 ```
 npm install <dependency>
 ```
-
-## Future Improvements
-Implement branching and merging.
-Add support for file deletions and renames.
-Optimize storage with tree structures.
-Provide better error handling and user feedback.
